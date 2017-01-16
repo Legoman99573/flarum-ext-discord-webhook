@@ -15,9 +15,6 @@
         "issues": "https://github.com/Cl1608Ho/flarum-ext-discord-webhook/issues",
         "source": "https://github.com/Cl1608Ho/flarum-ext-discord-webhook"
     },
-    "require": {
-        "flarum/core": "^0.1.0-beta.5"
-    },
     "autoload": {
         "psr-4": {
             "cl1608ho\\DiscordWebhook\\": "src/"
